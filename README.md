@@ -93,7 +93,7 @@ Fetches session journals from Firestore and returns them to the frontend.
 ## Installation
 
 ```bash
-git clone https://github.com/soumyaDghosh/manas.git
+git clone https://github.com/ashikaagrawal28/manas.git
 cd manas
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
